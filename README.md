@@ -50,7 +50,8 @@ A simple, offline workout tracker built with Jetpack Compose that helps you crea
 ## Getting Started
 
 ```
-git clone 
+git clone https://github.com/pparekh2009/RepBook.git
 ```
+Open the project in Android Studio and run it on an emulator or physical device.
 
 ## Padding
